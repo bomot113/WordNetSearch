@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/797150/lucene/java/trunk/contrib/analyzers/smartcn/src/java/org/apache/lucene/analysis/cn/smart
+END
+CharType.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/797150/lucene/java/trunk/contrib/analyzers/smartcn/src/java/org/apache/lucene/analysis/cn/smart/CharType.java
+END
+SentenceTokenizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/797150/lucene/java/trunk/contrib/analyzers/smartcn/src/java/org/apache/lucene/analysis/cn/smart/SentenceTokenizer.java
+END
+WordTokenFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/797150/lucene/java/trunk/contrib/analyzers/smartcn/src/java/org/apache/lucene/analysis/cn/smart/WordTokenFilter.java
+END
+Utility.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/797150/lucene/java/trunk/contrib/analyzers/smartcn/src/java/org/apache/lucene/analysis/cn/smart/Utility.java
+END
+WordSegmenter.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/797150/lucene/java/trunk/contrib/analyzers/smartcn/src/java/org/apache/lucene/analysis/cn/smart/WordSegmenter.java
+END
+AnalyzerProfile.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/797150/lucene/java/trunk/contrib/analyzers/smartcn/src/java/org/apache/lucene/analysis/cn/smart/AnalyzerProfile.java
+END
+WordType.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/797150/lucene/java/trunk/contrib/analyzers/smartcn/src/java/org/apache/lucene/analysis/cn/smart/WordType.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/797150/lucene/java/trunk/contrib/analyzers/smartcn/src/java/org/apache/lucene/analysis/cn/smart/package.html
+END
